@@ -48,17 +48,6 @@ Enabled
 
 # Microsoft 365 Group Resources
 
-When a Microsoft 365 Group is created, Microsoft automatically provisions connected services:
-
-
-Microsoft 365 Group
-
-    |
-    |
-
-| | |
-Teams SharePoint Exchange
-Site Group Mailbox
 
 
 Members receive access to:
