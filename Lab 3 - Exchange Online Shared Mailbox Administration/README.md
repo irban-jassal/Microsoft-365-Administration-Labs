@@ -40,7 +40,6 @@ Provide a centralized mailbox for IT support communication.
 
 **Members:**
 
-- IRBANJEET JASSAL
 - John Smith
 
 ---
