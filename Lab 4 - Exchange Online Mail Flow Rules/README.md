@@ -2,9 +2,9 @@
 
 ## Overview
 
-In this lab, I configured and managed a mail flow rule in Exchange Online using the Exchange Admin Center.
+In this lab, I configured and managed a Mail Flow Rule in Exchange Online using the Exchange Admin Center.
 
-The lab demonstrates how Microsoft 365 Administrators use mail flow rules to automatically process emails based on specific conditions and apply actions to meet organizational requirements.
+The lab demonstrates how Microsoft 365 Administrators use Exchange Online Mail Flow Rules (Transport Rules) to automatically process email messages based on defined conditions and organizational requirements.
 
 ---
 
@@ -12,19 +12,19 @@ The lab demonstrates how Microsoft 365 Administrators use mail flow rules to aut
 
 The objectives of this lab were:
 
-- Create an Exchange Online mail flow rule
-- Configure conditions for email processing
-- Apply automated actions to email messages
-- Understand Exchange Online transport rules
-- Learn how organizations use mail flow rules for compliance and email management
+- Create an Exchange Online Mail Flow Rule
+- Configure rule conditions and actions
+- Apply an automatic email disclaimer
+- Understand Exchange Online Transport Rules
+- Verify the Mail Flow Rule configuration
 
 ---
 
 # Scenario
 
-The organization wants to add a confidentiality disclaimer to emails sent outside the organization.
+The organization requires all emails sent outside the organization to include a confidentiality disclaimer.
 
-As the Microsoft 365 Administrator, the task was to create a mail flow rule that automatically appends a disclaimer to external emails.
+As the Microsoft 365 Administrator, I created a Mail Flow Rule to automatically append a disclaimer to external email messages.
 
 ---
 
@@ -38,7 +38,7 @@ External Email Disclaimer
 
 **Purpose:**
 
-Automatically add a confidentiality disclaimer to messages sent outside the organization.
+Automatically append a confidentiality disclaimer to emails sent outside the organization.
 
 ---
 
@@ -48,19 +48,17 @@ Automatically add a confidentiality disclaimer to messages sent outside the orga
 
 The rule was configured to apply when:
 
-- Recipient is located outside the organization
-
-This ensures the disclaimer is added only to external emails.
+- The recipient is located outside the organization
 
 ---
 
 ## Action
 
-Configured the rule action:
+Configured the following action:
 
 - Append a disclaimer to the message
 
-Disclaimer added:
+**Disclaimer Text**
 
 > This email is confidential and intended only for the recipient. If you have received this email in error, please notify the sender and delete it immediately.
 
@@ -68,23 +66,23 @@ Disclaimer added:
 
 ## Fallback Action
 
-Configured fallback action:
+Configured the following fallback action:
 
 **Wrap**
 
-The Wrap option ensures the disclaimer is still delivered if Exchange Online cannot directly modify the original message.
+The Wrap option ensures the disclaimer is still delivered if Exchange Online cannot modify the original email message.
 
 ---
 
 # Mail Flow Rule Purpose
 
-Exchange Online mail flow rules are commonly used by administrators to:
+Exchange Online Mail Flow Rules are commonly used to:
 
 - Add legal disclaimers
-- Block or redirect messages
-- Apply security controls
-- Enforce organizational email policies
-- Manage email compliance requirements
+- Enforce email policies
+- Improve email security
+- Support organizational compliance
+- Automate email processing
 
 ---
 
@@ -92,23 +90,23 @@ Exchange Online mail flow rules are commonly used by administrators to:
 
 ## Mail Flow Rule Creation
 
-Created a new Exchange Online mail flow rule.
+Configured the Mail Flow Rule with the required conditions and actions.
 
 ![Mail Flow Rule Creation](Lab4_Mail_Flow_Rule_Creation.png)
 
 ---
 
-## Mail Flow Rule Action
+## Mail Flow Rule Review and Create
 
-Configured the disclaimer action and fallback behavior.
+Reviewed the complete rule configuration before creating the Mail Flow Rule.
 
-![Mail Flow Rule Action](Lab4_Mail_Flow_Rule_Action.png)
+![Mail Flow Rule Review and Create](Lab4_Mail_Flow_Rule_Review_Create.png)
 
 ---
 
 ## Mail Flow Rule Overview
 
-Reviewed the completed mail flow rule configuration.
+Verified the newly created Mail Flow Rule in the Exchange Admin Center.
 
 ![Mail Flow Rule Overview](Lab4_Mail_Flow_Rule_Overview.png)
 
@@ -119,12 +117,12 @@ Reviewed the completed mail flow rule configuration.
 - Exchange Online Administration
 - Exchange Admin Center
 - Mail Flow Rules
-- Transport Rules
-- Email Compliance Management
+- Exchange Transport Rules
+- Email Policy Management
 - Microsoft 365 Administration
 
 ---
 
 # Lab Outcome
 
-Successfully created and configured an Exchange Online mail flow rule to automatically append a disclaimer to external emails, demonstrating email policy management and Exchange Online administration skills.
+Successfully created and configured an Exchange Online Mail Flow Rule to automatically append a confidentiality disclaimer to emails sent outside the organization, demonstrating practical Exchange Online administration and email policy management.
