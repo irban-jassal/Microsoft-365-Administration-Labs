@@ -53,3 +53,62 @@ The membership configuration demonstrates assigning appropriate ownership and co
 ## 3. Created Document Library Structure
 
 Created folders inside the default Documents library:
+
+
+Documents
+│
+├── IT Documentation
+│
+└── Policies
+
+
+### IT Documentation
+
+Used for storing:
+
+- Technical documentation
+- Troubleshooting guides
+- IT procedures
+- Knowledge base articles
+
+### Policies
+
+Used for storing:
+
+- Security policies
+- IT guidelines
+- Department documentation
+
+---
+
+## 4. Verified Group Membership and Permissions
+
+Reviewed the SharePoint site group membership to confirm:
+
+- Site owner assignment
+- Member access
+- Microsoft 365 Group permissions
+
+Verified users had the correct access level based on their assigned roles.
+
+---
+
+## Screenshots
+
+| Screenshot | Description |
+|---|---|
+| Lab7_Create_Site.png | SharePoint Team Site creation |
+| Lab7_Site_Members.png | Site owner and member assignment |
+| Lab7_Document_Library.png | Documents library folder structure |
+| Lab7_Site_Permissions.png | Group membership verification |
+
+---
+
+## Skills Demonstrated
+
+- SharePoint Online Administration
+- Microsoft 365 Group Management
+- SharePoint Site Creation
+- User Permission Management
+- Document Library Management
+- Collaboration Resource Administration
