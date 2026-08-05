@@ -54,7 +54,7 @@ Documents
 
 Screenshot:
 
-![View Document Library Screenshot](ab7_Document_Library.png)
+![View Document Library Screenshot](Lab7_Document_Library.png)
 
 ---
 
