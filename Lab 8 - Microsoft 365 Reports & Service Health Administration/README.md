@@ -23,7 +23,7 @@ Usage reports help administrators monitor user adoption, service activity, and l
 
 Screenshot:
 
-[View Usage Reports Screenshot](Lab8_Usage_Reports.png)
+![View Usage Reports Screenshot](Lab8_Usage_Reports.png)
 
 ---
 
@@ -42,7 +42,7 @@ Service Health helps administrators identify whether issues are caused by Micros
 
 Screenshot:
 
-[View Service Health Screenshot](Lab8_Service_Health.png)
+![View Service Health Screenshot](Lab8_Service_Health.png)
 
 ---
 
@@ -61,7 +61,7 @@ Message Center helps administrators prepare for changes and communicate updates 
 
 Screenshot:
 
-[View Message Center Screenshot](Lab8_Message_Center.png)
+![View Message Center Screenshot](Lab8_Message_Center.png)
 
 ---
 
@@ -77,7 +77,7 @@ Reviewed available configuration areas for:
 
 Screenshot:
 
-[View Organization Settings Screenshot](Lab8_Organization_Settings.png)
+![View Organization Settings Screenshot](Lab8_Organization_Settings.png)
 
 ---
 
