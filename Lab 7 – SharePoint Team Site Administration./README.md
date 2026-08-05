@@ -2,7 +2,9 @@
 
 ## Overview
 
-In this lab, I configured a SharePoint Online Team Site for an IT department. The lab demonstrates SharePoint site creation, Microsoft 365 Group membership management, document organization, and permission verification.
+In this lab, I configured a SharePoint Online Team Site for an IT department. This lab demonstrates SharePoint site creation, membership management, document organization, and permission verification.
+
+---
 
 ## Tasks Completed
 
@@ -10,25 +12,31 @@ In this lab, I configured a SharePoint Online Team Site for an IT department. Th
 
 Created a private SharePoint Team Site:
 
-- Site Name: IT Operations Site
-- Template: Team Site
-- Privacy: Private
-- Purpose: Internal IT department collaboration and document management
+- **Site Name:** IT Operations Site
+- **Template:** Team Site
+- **Privacy:** Private
+- **Purpose:** Internal IT department collaboration and document management
+
+Screenshot:
+
+[View Site Creation Screenshot](./Screenshots/Lab7_Create_Site.png)
 
 ---
 
 ### 2. Configured Site Membership
 
-Configured SharePoint site access through Microsoft 365 Group membership.
+Configured Microsoft 365 Group membership for the SharePoint Team Site.
 
-**Owner:**
+**Owner**
 - Irbanjeet Jassal
 
-**Members:**
+**Members**
 - John Smith
 - Alex Chen
 
-Verified owner and member permissions for the SharePoint Team Site.
+Screenshot:
+
+[View Site Membership Screenshot](./Screenshots/Lab7_Site_Members.png)
 
 ---
 
@@ -44,31 +52,23 @@ Documents
 └── Policies
 
 
-**IT Documentation**
-- Technical documents
-- Procedures
-- Troubleshooting guides
+Screenshot:
 
-**Policies**
-- IT policies
-- Security guidelines
-- Department documentation
+[View Document Library Screenshot](./Screenshots/Lab7_Document_Library.png)
 
 ---
 
-## Screenshots
+### 4. Verified Group Membership and Permissions
 
-### Site Creation
-- Lab7_Create_Site.png
+Verified SharePoint Group membership and confirmed:
 
-### Site Membership
-- Lab7_Site_Members.png
+- Owner access
+- Member access
+- User permissions
 
-### Document Library
-- Lab7_Document_Library.png
+Screenshot:
 
-### Group Membership / Permissions
-- Lab7_Site_Permissions.png
+[View Permissions Screenshot](./Screenshots/Lab7_Site_Permissions.png)
 
 ---
 
@@ -76,8 +76,9 @@ Documents
 
 - SharePoint Online Administration
 - Microsoft 365 Group Management
-- SharePoint Site Creation
-- User Access Management
-- Document Library Management
-- Permission Configuration
+- Site Creation and Configuration
+- Permission Management
+- Document Library Organization
+- User Access Control
 
+---
