@@ -1,56 +1,38 @@
 # Lab 7 - SharePoint Team Site Administration
 
-## Objective
+## Overview
 
-The objective of this lab was to create and configure a SharePoint Online Team Site for an internal IT department. This lab demonstrates SharePoint site creation, user access management, document organization, and permission configuration.
+In this lab, I configured a SharePoint Online Team Site for an IT department. The lab demonstrates SharePoint site creation, Microsoft 365 Group membership management, document organization, and permission verification.
 
----
+## Tasks Completed
 
-## Environment
-
-- Microsoft 365 Admin Center
-- SharePoint Online
-- Microsoft Entra ID
-- Microsoft 365 Groups
-
----
-
-## Lab Tasks Completed
-
-## 1. Created SharePoint Team Site
+### 1. Created SharePoint Team Site
 
 Created a private SharePoint Team Site:
 
-**Site Name:** IT Operations Site
-
-**Template:** Team Site
-
-**Privacy:** Private
-
-**Description:** Internal collaboration site for the IT department.
-
-The SharePoint Team Site was created to provide a centralized workspace for IT collaboration, documentation, and policy management.
+- Site Name: IT Operations Site
+- Template: Team Site
+- Privacy: Private
+- Purpose: Internal IT department collaboration and document management
 
 ---
 
-## 2. Configured Site Membership
+### 2. Configured Site Membership
 
-Configured Microsoft 365 Group membership for the SharePoint Team Site.
+Configured SharePoint site access through Microsoft 365 Group membership.
 
-### Owner
-
+**Owner:**
 - Irbanjeet Jassal
 
-### Members
-
+**Members:**
 - John Smith
 - Alex Chen
 
-The membership configuration demonstrates assigning appropriate ownership and collaboration access within SharePoint Online.
+Verified owner and member permissions for the SharePoint Team Site.
 
 ---
 
-## 3. Created Document Library Structure
+### 3. Created Document Library Structure
 
 Created folders inside the default Documents library:
 
@@ -62,45 +44,31 @@ Documents
 └── Policies
 
 
-### IT Documentation
-
-Used for storing:
-
-- Technical documentation
+**IT Documentation**
+- Technical documents
+- Procedures
 - Troubleshooting guides
-- IT procedures
-- Knowledge base articles
 
-### Policies
-
-Used for storing:
-
-- Security policies
-- IT guidelines
+**Policies**
+- IT policies
+- Security guidelines
 - Department documentation
-
----
-
-## 4. Verified Group Membership and Permissions
-
-Reviewed the SharePoint site group membership to confirm:
-
-- Site owner assignment
-- Member access
-- Microsoft 365 Group permissions
-
-Verified users had the correct access level based on their assigned roles.
 
 ---
 
 ## Screenshots
 
-| Screenshot | Description |
-|---|---|
-| Lab7_Create_Site.png | SharePoint Team Site creation |
-| Lab7_Site_Members.png | Site owner and member assignment |
-| Lab7_Document_Library.png | Documents library folder structure |
-| Lab7_Site_Permissions.png | Group membership verification |
+### Site Creation
+- Lab7_Create_Site.png
+
+### Site Membership
+- Lab7_Site_Members.png
+
+### Document Library
+- Lab7_Document_Library.png
+
+### Group Membership / Permissions
+- Lab7_Site_Permissions.png
 
 ---
 
@@ -109,6 +77,7 @@ Verified users had the correct access level based on their assigned roles.
 - SharePoint Online Administration
 - Microsoft 365 Group Management
 - SharePoint Site Creation
-- User Permission Management
+- User Access Management
 - Document Library Management
-- Collaboration Resource Administration
+- Permission Configuration
+
