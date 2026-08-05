@@ -19,7 +19,7 @@ Created a private SharePoint Team Site:
 
 Screenshot:
 
-[View Site Creation Screenshot](./Screenshots/Lab7_Create_Site.png)
+[View Site Creation Screenshot](Lab7_Create_Site.png)
 
 ---
 
@@ -36,7 +36,7 @@ Configured Microsoft 365 Group membership for the SharePoint Team Site.
 
 Screenshot:
 
-[View Site Membership Screenshot](./Screenshots/Lab7_Site_Members.png)
+[View Site Membership Screenshot](Lab7_Site_Members.png)
 
 ---
 
@@ -54,7 +54,7 @@ Documents
 
 Screenshot:
 
-[View Document Library Screenshot](./Screenshots/Lab7_Document_Library.png)
+[View Document Library Screenshot](ab7_Document_Library.png)
 
 ---
 
@@ -68,7 +68,7 @@ Verified SharePoint Group membership and confirmed:
 
 Screenshot:
 
-[View Permissions Screenshot](./Screenshots/Lab7_Site_Permissions.png)
+[View Permissions Screenshot](Lab7_Site_Permissions.png)
 
 ---
 
