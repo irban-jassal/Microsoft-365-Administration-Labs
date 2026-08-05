@@ -36,7 +36,7 @@ Configured Microsoft 365 Group membership for the SharePoint Team Site.
 
 Screenshot:
 
-!View Site Membership Screenshot](Lab7_Site_Members.png)
+![View Site Membership Screenshot](Lab7_Site_Members.png)
 
 ---
 
