@@ -23,7 +23,7 @@ Configured Microsoft 365 Business Premium licensing for users and verified avail
 - User Management
 - Service Plan Verification
 
-📂 [View Lab 1](./Lab%201%20-%20Microsoft%20365%20License%20Administration)
+📂 View Lab 1](./"Lab 1 - Microsoft 365 License Administration")
 
 ---
 
