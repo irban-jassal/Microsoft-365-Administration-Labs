@@ -23,7 +23,21 @@ Configured Microsoft 365 Business Premium licensing for users and verified avail
 - User Management
 - Service Plan Verification
 
-📂 View Lab 1](./"Lab 1 - Microsoft 365 License Administration")
+📂 [View Lab 1](./"Lab 1 - Microsoft 365 License Administration")
+
+📂 [View Lab 2](./"Lab 2 - Microsoft 365 Groups & Distribution Lists")
+
+📂 [View Lab 3](./"Lab 3 - Exchange Online Shared Mailbox Administration")
+
+📂 [View Lab 4](./"Lab 4 - Exchange Online Mail Flow Rules")
+
+📂 [View Lab 5](./"Lab 5 - Exchange Online Message Trace")
+
+📂 [View Lab 6](./"Lab 6 - Microsoft Teams Administration")
+
+📂 [View Lab 7](./"Lab 7 - SharePoint Team Site Administration")
+
+📂 [View Lab 8](./"Lab 8 - Microsoft 365 Reports & Service Health Administration")
 
 ---
 
