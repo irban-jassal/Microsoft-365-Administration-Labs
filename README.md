@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository documents my hands-on Microsoft 365 Administration labs completed using Microsoft 365 Admin Center, Exchange Admin Center, Microsoft Teams Admin Center, SharePoint Admin Center, and Microsoft 365 monitoring tools.
+This repository documents my hands-on Microsoft 365 Administration labs completed using the Microsoft 365 Admin Center, Exchange Admin Center, Microsoft Teams Admin Center, SharePoint Admin Center, and Microsoft Entra Admin Center.
 
 The purpose of this portfolio is to demonstrate practical Microsoft 365 Administrator skills through real-world configuration scenarios, including identity management, collaboration services, Exchange Online administration, and tenant monitoring.
 
@@ -14,30 +14,21 @@ The purpose of this portfolio is to demonstrate practical Microsoft 365 Administ
 
 ### Overview
 
-Configured Microsoft 365 Business Premium licensing for users and verified available Microsoft cloud service plans.
+Configured and managed Microsoft 365 Business Premium licensing using the Microsoft 365 Admin Center.
+
+### Tasks Completed
+
+- Assigned Microsoft 365 Business Premium license
+- Verified license assignment
+- Reviewed available Microsoft 365 service plans
+- Understood Microsoft 365 licensing and service provisioning
 
 ### Skills Demonstrated
 
 - Microsoft 365 Admin Center
-- License Assignment
-- User Management
+- License Management
+- User Administration
 - Service Plan Verification
-
-📂 [View Lab 1](./"Lab 1 - Microsoft 365 License Administration")
-
-📂 [View Lab 2](./"Lab 2 - Microsoft 365 Groups & Distribution Lists")
-
-📂 [View Lab 3](./"Lab 3 - Exchange Online Shared Mailbox Administration")
-
-📂 [View Lab 4](./"Lab 4 - Exchange Online Mail Flow Rules")
-
-📂 [View Lab 5](./"Lab 5 - Exchange Online Message Trace")
-
-📂 [View Lab 6](./"Lab 6 - Microsoft Teams Administration")
-
-📂 [View Lab 7](./"Lab 7 - SharePoint Team Site Administration")
-
-📂 [View Lab 8](./"Lab 8 - Microsoft 365 Reports & Service Health Administration")
 
 ---
 
@@ -45,15 +36,15 @@ Configured Microsoft 365 Business Premium licensing for users and verified avail
 
 ### Overview
 
-Created and managed Microsoft 365 collaboration and email communication objects.
+Configured Microsoft 365 collaboration and email communication objects.
 
 ### Tasks Completed
 
 - Created Microsoft 365 Group
 - Enabled Microsoft Teams integration
-- Managed owners and members
+- Managed group owners and members
 - Created Distribution List
-- Compared collaboration groups and email-only distribution groups
+- Compared Microsoft 365 Groups and Distribution Lists
 
 ### Skills Demonstrated
 
@@ -63,22 +54,21 @@ Created and managed Microsoft 365 collaboration and email communication objects.
 - SharePoint Integration
 - Membership Management
 
-📂 [View Lab 2](./Lab%202%20-%20Microsoft%20365%20Groups%20%26%20Distribution%20Lists)
-
 ---
 
 # Lab 3 – Exchange Online Shared Mailbox Administration
 
 ### Overview
 
-Configured an Exchange Online Shared Mailbox and delegated user permissions.
+Created and configured an Exchange Online Shared Mailbox with delegated permissions.
 
 ### Tasks Completed
 
 - Created Shared Mailbox
 - Added mailbox members
-- Assigned Full Access permissions
-- Assigned Send As permissions
+- Configured Full Access permissions
+- Configured Send As permissions
+- Verified mailbox configuration
 
 ### Skills Demonstrated
 
@@ -86,8 +76,6 @@ Configured an Exchange Online Shared Mailbox and delegated user permissions.
 - Shared Mailbox Management
 - Delegated Permissions
 - Mailbox Access Control
-
-📂 [View Lab 3](./Lab%203%20-%20Exchange%20Online%20Shared%20Mailbox%20Administration)
 
 ---
 
@@ -101,8 +89,9 @@ Configured Exchange Online Mail Flow Rules to automatically process email messag
 
 - Created Mail Flow Rule
 - Configured external email disclaimer
-- Applied message processing conditions
+- Applied message conditions
 - Configured fallback action
+- Verified rule configuration
 
 ### Skills Demonstrated
 
@@ -111,15 +100,13 @@ Configured Exchange Online Mail Flow Rules to automatically process email messag
 - Transport Rules
 - Email Policy Management
 
-📂 [View Lab 4](./Lab%204%20-%20Exchange%20Online%20Mail%20Flow%20Rules)
-
 ---
 
 # Lab 5 – Exchange Online Message Trace
 
 ### Overview
 
-Used Exchange Online Message Trace to troubleshoot email delivery and verify message processing.
+Used Exchange Online Message Trace to troubleshoot and verify email delivery.
 
 ### Tasks Completed
 
@@ -135,8 +122,6 @@ Used Exchange Online Message Trace to troubleshoot email delivery and verify mes
 - Mail Flow Analysis
 - Email Delivery Investigation
 
-📂 [View Lab 5](./Lab%205%20-%20Exchange%20Online%20Message%20Trace)
-
 ---
 
 # Lab 6 – Microsoft Teams Administration
@@ -148,7 +133,7 @@ Configured Microsoft Teams resources and policies using Microsoft Teams Admin Ce
 ### Tasks Completed
 
 - Created Microsoft Team
-- Managed team membership
+- Configured team membership
 - Created channels
 - Reviewed Teams policies
 - Assigned Teams policies using group-based assignment
@@ -159,9 +144,7 @@ Configured Microsoft Teams resources and policies using Microsoft Teams Admin Ce
 - Team Management
 - Channel Management
 - Teams Policy Configuration
-- Governance Management
-
-📂 [View Lab 6](./Lab%206%20-%20Microsoft%20Teams%20Administration)
+- Collaboration Governance
 
 ---
 
@@ -169,24 +152,23 @@ Configured Microsoft Teams resources and policies using Microsoft Teams Admin Ce
 
 ### Overview
 
-Created and configured a SharePoint Online Team Site for IT department collaboration and document management.
+Configured a SharePoint Online Team Site for IT department collaboration and document management.
 
 ### Tasks Completed
 
 - Created private SharePoint Team Site
 - Configured site membership
-- Added users and permissions
+- Added owners and members
 - Created document library folders
-- Verified access permissions
+- Verified permissions
 
 ### Skills Demonstrated
 
 - SharePoint Online Administration
-- Site Management
+- Site Creation
 - Permission Management
-- Document Library Organization
-
-📂 [View Lab 7](./Lab%207%20-%20SharePoint%20Team%20Site%20Administration)
+- Document Management
+- User Access Control
 
 ---
 
@@ -194,7 +176,7 @@ Created and configured a SharePoint Online Team Site for IT department collabora
 
 ### Overview
 
-Reviewed Microsoft 365 monitoring and reporting capabilities.
+Reviewed Microsoft 365 monitoring and reporting capabilities using the Microsoft 365 Admin Center.
 
 ### Tasks Completed
 
@@ -209,8 +191,7 @@ Reviewed Microsoft 365 monitoring and reporting capabilities.
 - Tenant Administration
 - Service Health Management
 - Change Management
-
-📂 [View Lab 8](./Lab%208%20-%20Microsoft%20365%20Reports%20%26%20Service%20Health%20Administration)
+- Operational Monitoring
 
 ---
 
@@ -259,27 +240,27 @@ Reviewed Microsoft 365 monitoring and reporting capabilities.
 
 # Portfolio Objective
 
-The objective of this portfolio is to demonstrate practical Microsoft 365 Administrator experience through documented hands-on labs.
+The objective of this repository is to demonstrate practical Microsoft 365 Administrator skills through documented hands-on labs.
 
-These labs represent common enterprise administration tasks including:
+The labs represent common enterprise administration tasks, including:
 
 - Managing users and licenses
-- Configuring collaboration platforms
-- Managing Exchange Online services
+- Configuring Microsoft 365 collaboration services
+- Administering Exchange Online
 - Troubleshooting email delivery
-- Administering Teams and SharePoint
+- Managing Teams and SharePoint environments
 - Monitoring Microsoft 365 tenant health
 
 ---
 
 # Future Expansion
 
-Planned future labs:
+Upcoming labs:
 
 - Microsoft Intune Administration
 - Microsoft Defender Security
 - Windows Server Administration
 - Active Directory Domain Services
-- DNS & DHCP
+- DNS and DHCP
 - Group Policy
 - Hybrid Identity with Microsoft Entra ID
